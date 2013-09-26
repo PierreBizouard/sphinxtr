@@ -115,7 +115,7 @@
 %ProQuest copy -- http://www.princeton.edu/~mudd/thesis/Submissionguide.pdf
 
 % ProQuest requires a double spaced version (set previously). They will take an electronic copy, so we want links in the pdf, but also copies may be printed or made into microfilm in black and white, so we want outlined links instead of colored links.
-\usepackage{hyperref}
+\usepackage[colorlinks]{hyperref}
 \hypersetup{bookmarksnumbered}
 
 % copy the already-set title and author to use in the pdf properties
@@ -133,7 +133,7 @@
 % -- automatically includes url package
 % options:
 %   colorlinks makes links by coloring the text instead of putting a rectangle around the text.
-\usepackage{hyperref}
+\usepackage[colorlinks]{hyperref}
 \hypersetup{colorlinks,bookmarksnumbered}
 
 % copy the already-set title and author to use in the pdf properties

@@ -38,7 +38,7 @@ source_encoding = 'utf-8-sig'
 # General information about the project.
 project = u'The Sphinx Thesis Resource (sphinxtr)'
 author = u'Jeff Terrace'
-copyright = u'by %s, 2012.' % author
+copyright = u'by %s, 2013.' % author
 version = '0.1'
 release = '0.1'
 
@@ -51,7 +51,7 @@ natbib = {
     'file': 'refs.bib',
     'brackets': '[]',
     'separator': ',',
-    'style': 'numbers',
+    'style': 'authoryear',
     'sort': True,
 }
 
