@@ -62,6 +62,10 @@ exclude_patterns = [
                     'tex',
                     'epilog.rst',
                     'README.rst',
+                    'lib',
+                    'local/lib',
+                    'local/README.rst',
+                    'local/epilog.rst',
                     ]
 
 # The master toctree document.
